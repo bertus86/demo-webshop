@@ -1,6 +1,6 @@
 const PRODUCTS = {
   apple: { name: "Apple", emoji: "🍏" },
-  banana: { name: "Banana", emoji: "🍌" },
+  banano: { name: "Banano", emoji: "🍌" },
   lemon: { name: "Lemon", emoji: "🍋" },
 };
 
